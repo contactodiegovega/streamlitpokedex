@@ -20,7 +20,7 @@ Plotly
 
 Este proyecto ha sido desarrollado como práctica del Bootcamp de Data Analytics para aprender:
 
-Manipulación de datos con Pandas.
-Desarrollo de aplicaciones web con Streamlit.
-Visualización de datos con Plotly.
-Organización de proyectos en Python.
+- Manipulación de datos con Pandas.
+- Desarrollo de aplicaciones web con Streamlit.
+- Visualización de datos con Plotly.
+- Organización de proyectos en Python.
