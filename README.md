@@ -24,3 +24,5 @@ Este proyecto ha sido desarrollado como práctica del Bootcamp de Data Analytics
 - Desarrollo de aplicaciones web con Streamlit.
 - Visualización de datos con Plotly.
 - Organización de proyectos en Python.
+
+Link a streamlit: https://diegovegaapppokedex-kpqor7ppj3jyghvg4gnw3y.streamlit.app/  
