@@ -1,5 +1,0 @@
-Streamlit 2.9.3
-Plotly 5.18.0
-Pandas 1.5.3
-Requests 2.28.2
-Numpy 1.24.3
